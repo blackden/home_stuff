@@ -1,0 +1,7 @@
+[user]
+	name = blackden
+	email = ragnar.black@bk.ru
+[core]
+	editor = vim
+[init]
+	defaultBranch = master
