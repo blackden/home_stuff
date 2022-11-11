@@ -72,7 +72,7 @@ ZSH_THEME="mortalscumbag"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git vagrant adb ansible brew command-not-found emoji-clock pip helm kubectl minikube)
+plugins=(git vagrant adb ansible brew command-not-found pip helm kubectl minikube gpg-agent oc)
 
 source $ZSH/oh-my-zsh.sh
 
